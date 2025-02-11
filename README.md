@@ -13,8 +13,8 @@ This is a simple **C# Console Application** built with .NET.
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/ChanAbay-abay/Deck-of-Cards
+cd Deck-of-Cards
 ```
 
 ### 2. Initialize a .NET project (if not already done)
