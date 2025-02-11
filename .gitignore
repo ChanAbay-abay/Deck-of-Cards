@@ -1,0 +1,24 @@
+# Ignore build files
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.vs
+.vscode/
+.idea/
+*.csproj.user
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Ignore publish output
+publish/
+
+# Ignore logs and temp files
+*.log
+*.tmp
